@@ -1,0 +1,15 @@
+/Users/PinChenLin/Desktop/Linq說明/obj/Debug/net5.0/Linq說明.csproj.AssemblyReference.cache
+/Users/PinChenLin/Desktop/Linq說明/obj/Debug/net5.0/Linq說明.GeneratedMSBuildEditorConfig.editorconfig
+/Users/PinChenLin/Desktop/Linq說明/obj/Debug/net5.0/Linq說明.AssemblyInfoInputs.cache
+/Users/PinChenLin/Desktop/Linq說明/obj/Debug/net5.0/Linq說明.AssemblyInfo.cs
+/Users/PinChenLin/Desktop/Linq說明/obj/Debug/net5.0/Linq說明.csproj.CoreCompileInputs.cache
+/Users/PinChenLin/Desktop/Linq說明/bin/Debug/net5.0/Linq說明.deps.json
+/Users/PinChenLin/Desktop/Linq說明/bin/Debug/net5.0/Linq說明.runtimeconfig.json
+/Users/PinChenLin/Desktop/Linq說明/bin/Debug/net5.0/Linq說明.runtimeconfig.dev.json
+/Users/PinChenLin/Desktop/Linq說明/bin/Debug/net5.0/Linq說明.dll
+/Users/PinChenLin/Desktop/Linq說明/bin/Debug/net5.0/ref/Linq說明.dll
+/Users/PinChenLin/Desktop/Linq說明/bin/Debug/net5.0/Linq說明.pdb
+/Users/PinChenLin/Desktop/Linq說明/obj/Debug/net5.0/Linq說明.dll
+/Users/PinChenLin/Desktop/Linq說明/obj/Debug/net5.0/ref/Linq說明.dll
+/Users/PinChenLin/Desktop/Linq說明/obj/Debug/net5.0/Linq說明.pdb
+/Users/PinChenLin/Desktop/Linq說明/obj/Debug/net5.0/Linq說明.genruntimeconfig.cache
